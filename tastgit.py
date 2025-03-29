@@ -1,4 +1,7 @@
 def mult(a, b):
     return a * b
 
-print(mult(10, 20))
+first_num = mult(10, 20)
+sec_num = mult(5, 5)
+summ = first_num + sec_num
+print(summ)
