@@ -6,5 +6,6 @@ sec_num = mult(5, 5)
 summ = first_num + sec_num
 mult_list = []
 mult_list.append(summ)
+
 print("Hi-Hi-Hi")
 print(tuple(mult_list))
